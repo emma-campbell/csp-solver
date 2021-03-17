@@ -1,6 +1,6 @@
 # CSP-Solver
 
-Implementation of Constraint Satisfaction Problems as defined by _Artificial Intelligence: A Modern Approach_ by Russel & Norvig (3 ed). Currently features a backtracking algorithm that implements forward checking. Over time, I will implement more algorithms discuess in the text.
+Implementation of Constraint Satisfaction Problems as defined by _Artificial Intelligence: A Modern Approach_ by Russel & Norvig (3 ed). Currently features a backtracking algorithm that implements forward checking. Over time, I will implement more algorithms discussed in the text.
 
 ## Contents
 
